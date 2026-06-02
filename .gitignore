@@ -1,0 +1,42 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.egg-info/
+dist/
+build/
+
+# Secrets
+.env
+.env.*
+*_secret*
+*_token*
+*_key*
+*_credentials*
+secrets/
+
+# Field state
+*.bin
+*.ptol
+*.pkl
+*.sock
+
+# Voice artefacts
+*.vprint
+*.vp
+*.voiceprint
+voiceprint.*
+
+# Session state
+*.session
+session_state*
+field_session*
+
+# Spectral working files
+*.spectral
+spectral_cache/
+resonance_cache/
+
+# OS
+.DS_Store
+Thumbs.db

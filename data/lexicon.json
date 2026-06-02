@@ -1,0 +1,352 @@
+{
+  "faces": {
+    "60.831779": {
+      "In": 2,
+      "earth": 4,
+      "God": 6,
+      "Let": 2,
+      "and": 2,
+      "Au": 1,
+      "commencement": 1,
+      "créa": 1,
+      "cieux": 1,
+      "terre": 2,
+      "Et": 2,
+      "Que": 1,
+      "était": 1,
+      "des": 1
+    },
+    "72.067158": {
+      "the": 12,
+      "was": 4,
+      "les": 2,
+      "sur": 1
+    },
+    "65.112544": {
+      "beginning": 2,
+      "of": 2,
+      "was": 4,
+      "saw": 2,
+      "the": 6,
+      "et": 2,
+      "la": 3,
+      "de": 1,
+      "dit": 1,
+      "fut": 1,
+      "vit": 1,
+      "que": 1
+    },
+    "69.546402": {
+      "God": 2,
+      "and": 4,
+      "était": 1
+    },
+    "49.773832": {
+      "created": 2,
+      "heavens": 2,
+      "face": 3,
+      "darkness": 2,
+      "the": 10,
+      "Dieu": 1,
+      "informe": 1,
+      "ténèbres": 1,
+      "labîme": 1,
+      "vie": 1,
+      "les": 1
+    },
+    "67.079811": {
+      "And": 4
+    },
+    "52.970321": {
+      "without": 2,
+      "form": 2,
+      "void": 2,
+      "deep": 2,
+      "there": 4,
+      "be": 2,
+      "light": 8,
+      "vide": 1,
+      "Et": 3,
+      "lumière": 4,
+      "bonne": 1
+    },
+    "59.347044": {
+      "darkness": 2,
+      "And": 6,
+      "étaient": 1
+    },
+    "56.446247": {
+      "upon": 2,
+      "it": 2,
+      "la": 4,
+      "et": 1
+    },
+    "43.327073": {
+      "said": 2,
+      "that": 2,
+      "good": 2,
+      "from": 2,
+      "garden": 4,
+      "And": 2,
+      "knowledge": 2,
+      "sépara": 1,
+      "Larbre": 1,
+      "jardin": 2,
+      "larbre": 1
+    },
+    "40.918719": {
+      "divided": 2,
+      "of": 8,
+      "in": 2,
+      "to": 2,
+      "Dieu": 3,
+      "ténèbres": 1,
+      "de": 2,
+      "au": 1,
+      "du": 4,
+      "la": 1,
+      "et": 1
+    },
+    "48.005151": {
+      "The": 2,
+      "and": 2,
+      "flowed": 2,
+      "rivers": 2,
+      "soit": 1,
+      "était": 1,
+      "milieu": 1,
+      "mal": 1,
+      "quatre": 1
+    },
+    "25.010858": {
+      "tree": 4,
+      "life": 2,
+      "good": 2,
+      "evil": 2,
+      "from": 2,
+      "bien": 1,
+      "fleuves": 1
+    },
+    "37.586178": {
+      "stood": 2,
+      "midst": 2,
+      "Et": 1,
+      "connaissance": 1
+    },
+    "32.935062": {
+      "Water": 2
+    },
+    "30.424876": {
+      "four": 2,
+      "vers": 1
+    },
+    "21.022040": {
+      "Leau": 1,
+      "coulait": 1
+    }
+  },
+  "domains": {
+    "60.831779": {
+      "In the beginning God created the heavens and the earth And the": {
+        "In": 2,
+        "earth": 4,
+        "Au": 1,
+        "commencement": 1,
+        "créa": 1,
+        "cieux": 1,
+        "terre": 2,
+        "Et": 2
+      },
+      "And God said Let there be light and there was light And": {
+        "God": 6,
+        "Let": 2,
+        "and": 2,
+        "Que": 1,
+        "était": 1,
+        "des": 1
+      }
+    },
+    "72.067158": {
+      "In the beginning God created the heavens and the earth And the": {
+        "the": 12,
+        "was": 4,
+        "les": 2,
+        "sur": 1
+      }
+    },
+    "65.112544": {
+      "In the beginning God created the heavens and the earth And the": {
+        "beginning": 2,
+        "of": 2,
+        "et": 2,
+        "la": 3,
+        "de": 1
+      },
+      "And God said Let there be light and there was light And": {
+        "was": 4,
+        "saw": 2,
+        "the": 6,
+        "dit": 1,
+        "fut": 1,
+        "vit": 1,
+        "que": 1
+      }
+    },
+    "69.546402": {
+      "In the beginning God created the heavens and the earth And the": {
+        "God": 2,
+        "and": 4,
+        "était": 1
+      }
+    },
+    "49.773832": {
+      "In the beginning God created the heavens and the earth And the": {
+        "created": 2,
+        "heavens": 2,
+        "face": 3,
+        "Dieu": 1,
+        "informe": 1,
+        "ténèbres": 1,
+        "labîme": 1
+      },
+      "And God said Let there be light and there was light And": {
+        "darkness": 2
+      },
+      "The tree of life stood in the midst of the garden And": {
+        "the": 10,
+        "vie": 1,
+        "les": 1
+      }
+    },
+    "67.079811": {
+      "In the beginning God created the heavens and the earth And the": {
+        "And": 4
+      }
+    },
+    "52.970321": {
+      "In the beginning God created the heavens and the earth And the": {
+        "without": 2,
+        "form": 2,
+        "void": 2,
+        "deep": 2,
+        "vide": 1
+      },
+      "And God said Let there be light and there was light And": {
+        "there": 4,
+        "be": 2,
+        "light": 8,
+        "Et": 3,
+        "lumière": 4,
+        "bonne": 1
+      }
+    },
+    "59.347044": {
+      "In the beginning God created the heavens and the earth And the": {
+        "darkness": 2,
+        "étaient": 1
+      },
+      "And God said Let there be light and there was light And": {
+        "And": 6
+      }
+    },
+    "56.446247": {
+      "In the beginning God created the heavens and the earth And the": {
+        "upon": 2
+      },
+      "And God said Let there be light and there was light And": {
+        "it": 2,
+        "la": 4,
+        "et": 1
+      }
+    },
+    "43.327073": {
+      "And God said Let there be light and there was light And": {
+        "said": 2,
+        "that": 2,
+        "good": 2,
+        "from": 2,
+        "sépara": 1
+      },
+      "The tree of life stood in the midst of the garden And": {
+        "garden": 4,
+        "And": 2,
+        "knowledge": 2,
+        "Larbre": 1,
+        "jardin": 2,
+        "larbre": 1
+      }
+    },
+    "40.918719": {
+      "And God said Let there be light and there was light And": {
+        "divided": 2,
+        "Dieu": 3,
+        "ténèbres": 1
+      },
+      "The tree of life stood in the midst of the garden And": {
+        "of": 8,
+        "in": 2,
+        "to": 2,
+        "de": 2,
+        "au": 1,
+        "du": 4,
+        "la": 1,
+        "et": 1
+      }
+    },
+    "48.005151": {
+      "The tree of life stood in the midst of the garden And": {
+        "The": 2,
+        "and": 2,
+        "flowed": 2,
+        "rivers": 2,
+        "était": 1,
+        "milieu": 1,
+        "mal": 1,
+        "quatre": 1
+      },
+      "And God said Let there be light and there was light And": {
+        "soit": 1
+      }
+    },
+    "25.010858": {
+      "The tree of life stood in the midst of the garden And": {
+        "tree": 4,
+        "life": 2,
+        "good": 2,
+        "evil": 2,
+        "from": 2,
+        "bien": 1,
+        "fleuves": 1
+      }
+    },
+    "37.586178": {
+      "The tree of life stood in the midst of the garden And": {
+        "stood": 2,
+        "midst": 2,
+        "Et": 1,
+        "connaissance": 1
+      }
+    },
+    "32.935062": {
+      "The tree of life stood in the midst of the garden And": {
+        "Water": 2
+      }
+    },
+    "30.424876": {
+      "The tree of life stood in the midst of the garden And": {
+        "four": 2,
+        "vers": 1
+      }
+    },
+    "21.022040": {
+      "The tree of life stood in the midst of the garden And": {
+        "Leau": 1,
+        "coulait": 1
+      }
+    }
+  },
+  "files_seen": [
+    "/tmp/tmpfa8dsc3d_fr.txt",
+    "/tmp/tmp4acv19wq_en.txt"
+  ]
+}
