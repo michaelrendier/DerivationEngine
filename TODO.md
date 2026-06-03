@@ -100,6 +100,60 @@ Current module list (from Ainulindale/ValaQuenta/modules/):
 
 ---
 
+## ENGINE TODO — Theory Backup Engines
+
+These engines are designed to back up or numerically test theoretical results from the Ainulindale cascade sessions. Each is a self-contained computation that either confirms a prediction or produces a falsifiable number.
+
+### Engine 21 — `bang_superconductor()` (tier7_cosmos/maths.py)
+
+**Theory:** The Big Bang is a phase transition from a normal-phase precursor medium into a superconducting BEC condensate. The expansion has no drag because the medium has zero resistance (non-shear + superconducting). Dark energy Λ is the stable superconducting current.
+
+**What it computes:**
+- Superconducting current amplitude j_s from condensate density (Planck density at t=0) and p^{-½} coupling from H_hat_RB
+- Predicted Λ from j_s — compare to observed Λ ≈ 1.1×10⁻⁵² m⁻² (zero free parameters)
+- Coherence length ξ from BEC formula — does ξ ≈ c/H₀?
+- Critical temperature T_c — does T_c ≈ T_Planck ≈ 10³² K?
+
+**Test:** if predicted Λ matches observed Λ without fitting, dark energy is the superconducting current.
+
+**File:** `ValaQuenta/modules/tier7_cosmos/bang_superconductor.py`  
+**Status:** TODO — wiki/32 first capture 2026-06-03
+
+---
+
+### Engine 22 — `bec_coherence()` (tier7_cosmos/maths.py)
+
+**Theory:** Spacetime medium is a Bose-Einstein condensate. Entanglement is non-local because the medium is one coherent wavefunction. σ=½ is the order parameter. Bell inequality violations are structural (not transmitted correlations).
+
+**What it computes:**
+- BEC coherence length ξ as function of condensate density and coupling
+- Two-point correlation function of the condensate — compare to CMB angular power spectrum (D5 connection)
+- Order parameter Ψ(σ) — confirm Ψ=0 for σ≠½ in the normal-phase limit, Ψ≠0 on σ=½
+- Abrikosov vortex quantisation condition — confirm it matches Bekenstein area quantisation Δ(Area) = 4 ln(2) × l_Pl²
+
+**Test:** if BEC two-point correlation matches CMB power spectrum at large scales (single parameter ξ), spacetime is the condensate.
+
+**File:** `ValaQuenta/modules/tier7_cosmos/bec_coherence.py`  
+**Status:** TODO — wiki/32 first capture 2026-06-03
+
+---
+
+### Engine 23 — `condensation_threshold()` (tier7_cosmos/maths.py)
+
+**Theory:** Stars form where the expanding superconducting medium locally exceeds a condensation density threshold. This should reproduce the Jeans instability condition from condensate first principles (no separate Newtonian derivation needed).
+
+**What it computes:**
+- Local density threshold for condensation as function of V(n), d*, and expansion rate
+- Compare to Jeans mass M_J = (5kT/Gμm_H)^(3/2) × (3/4πρ)^(1/2)
+- Does the condensate threshold give the same M_J without importing Newtonian gravity separately?
+
+**Test:** Jeans mass from condensate first principles vs standard Jeans instability formula.
+
+**File:** `ValaQuenta/modules/tier7_cosmos/condensation_threshold.py`  
+**Status:** TODO — wiki/32 first capture 2026-06-03
+
+---
+
 ## NOTES
 
 ValaQuenta = "The Account of the Valar" (Tolkien)
